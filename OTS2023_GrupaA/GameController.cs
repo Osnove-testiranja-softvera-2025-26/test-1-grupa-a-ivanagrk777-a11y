@@ -10,6 +10,7 @@ namespace OTS2026_GrupaA
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
